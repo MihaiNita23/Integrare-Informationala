@@ -1,46 +1,44 @@
 {
     "masini": [
-
-{
-    "Nume":"Dacia Logan",
-    "Cai putere": 75,
-    "Greutate":1100,
-    "Acceleratie":14,
-    "An":"2006",
-    "Origin":"RO"
- },
-{
-    "Nume":"Audi A4",
-    "Cai putere": 140,
-    "Greutate":1500,
-    "Acceleratie":8,
-    "An":"2010",
-    "Origin":"DE"
+        {
+            "Nume": "Dacia Logan",
+            "Cai putere": 75,
+            "Greutate": 1100,
+            "Acceleratie": 14,
+            "An": "2006",
+            "Origin": "RO"
         },
         {
-            "Nume":"VW Golf",
+            "Nume": "Audi A4",
+            "Cai putere": 140,
+            "Greutate": 1500,
+            "Acceleratie": 8,
+            "An": "2010",
+            "Origin": "DE"
+        },
+        {
+            "Nume": "VW Golf",
             "Cai putere": 115,
-            "Greutate":1350,
-            "Acceleratie":10,
-            "An":"2015",
-            "Origin":"DE"
-                },
-                {
-                    "Nume":"Opel Astra",
-                    "Cai putere": 105,
-                    "Greutate":1200,
-                    "Acceleratie":11,
-                    "An":"2012",
-                    "Origin":"DE"
-                        },
-                        {
-                            "Nume":"Ford Focus",
-                            "Cai putere": 125,
-                            "Greutate":1400,
-                            "Acceleratie":12,
-                            "An":"2014",
-                            "Origin":"USA"
-                                }
-
+            "Greutate": 1350,
+            "Acceleratie": 10,
+            "An": "2015",
+            "Origin": "DE"
+        },
+        {
+            "Nume": "Opel Astra",
+            "Cai putere": 105,
+            "Greutate": 1200,
+            "Acceleratie": 11,
+            "An": "2012",
+            "Origin": "DE"
+        },
+        {
+            "Nume": "Ford Focus",
+            "Cai putere": 125,
+            "Greutate": 1400,
+            "Acceleratie": 12,
+            "An": "2014",
+            "Origin": "USA"
+        }
     ]
 }
